@@ -1,0 +1,9 @@
+nltk
+scikit-learn
+requests
+pandas
+numpy
+matplotlib
+gensim
+
+
